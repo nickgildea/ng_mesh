@@ -13,4 +13,4 @@ The controls are:
 
 Send any questions to nick.gildea@gmail.com or @ngildea85 on Twitter
 
-(https://raw.github.com/nickgildea/ng_mesh_simplify/master/example.png)
+(https://github.com/nickgildea/ng_mesh/blob/master/example.png)
